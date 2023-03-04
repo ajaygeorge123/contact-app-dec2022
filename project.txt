@@ -1,0 +1,19 @@
+Contact management app work flow
+------------------------------------
+
+1. create a neqw peojevt
+2.run projevct
+3.remove alal contents from appcomponent.html
+4.configure external libraries: bootstrap, google fonts, font awesome
+5.create componetnt neeed for this website
+    -all-contacts
+    -add-Contact
+    -edit-contact
+    -view-contact
+6. Set up path for all component
+7. use selector components 
+    <router-outlet></router-outlet> in app-component.html
+
+8. Design component html view    
+9.create angular service for making api call
+10. create a model
